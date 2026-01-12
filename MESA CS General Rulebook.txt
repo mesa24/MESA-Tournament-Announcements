@@ -1,0 +1,639 @@
+MESA CS General Rulebook
+
+1. Lineup
+
+
+Teams have to submit their lineup for offline and online events before the deadline given by tournament administration. The lineup must contain five (5) starter players. In addition, the lineup may contain a single coach and up to two (2) substitute players for the event
+
+
+All players and coaches will be considered part of the line-up, even if they have not participated in any of the matches. Any changes to the roles of participants submitted during the roster submission process (e.g. starter being moved to substitute, and vice versa) are considered an addition. Where a team does not have the maximum number of substitutes registered (2), the registered coach may be used as a substitute player.
+
+
+It is suggested that every MESA team has substitutes added in their roster to compensate for any potential player losses during an event.
+
+
+Each participant shall publicly announce its roster once the roster submission deadline has passed. If a participant fails for any reason to announce its roster by that time, MESA retains the right to publish said roster through its own marketing activities promoting the competition.
+
+
+2. Access to match area
+
+
+Teams are allowed a total of seven (7) persons in the Playing Area during pre-match setup. From fifteen (15) minutes prior to Match start, only the six (6) Participants in the Match (five Players and one Team Coach) are allowed in the Playing Area. Tournament Officials may ask non-Participants (e.g. content staff) to leave the Playing Area from thirty (30) minutes prior to the Match starting. Any exceptions to this to be agreed with the Tournament Operations Manager.
+
+
+
+
+3. Emergency additions
+
+
+Where a team is rendered unable to field a full lineup as a result of a serious and unexpected emergency, the right to make an emergency addition request exists, as long as supporting evidence can be provided. All emergency addition requests and supporting evidence will be evaluated by the tournament administration on a case by case basis. All emergency addition request decisions will be made at the tournament administration’s discretion. Emergency additions are still subject to the restrictions for adding new players. Any further restrictions detailed in this rulebook may be suspended in order to facilitate the addition.
+Where an emergency addition is approved, all costs related to getting the new player to the event must be covered by the team.
+
+
+4. Substitutions
+
+
+Only players that are a part of the submitted roster can be substituted in. The opposing team and tournament administration have to be informed beforehand.
+
+
+5. Substitutions offline competitions
+
+
+Participants are allowed to substitute players between maps in a series or between matches. Any changes to the starting lineup for the upcoming map have to be reported to the tournament administration after the map veto or immediately after the end of the previous map, whichever is later. Substitutes will be required to set up right after the end of the preceding map and will not receive additional time to set up.
+In case this is the first match of an offline event (or of a new stage of an offline event with a break of over 30 hours between stages), the lineup has to be reported to the tournament administration at least 24 hours before the scheduled start of the match.
+
+
+6. Lineup restrictions during an event
+
+
+Once a participant plays for the first time in a qualifier, their lineup has to contain a majority of that first lineup until the end of the main event, throughout all qualifiers and stages of the event. This also implies that an organization that tried and failed to qualify with one team is not allowed to sign a new team to still take part in the event.
+
+The above lineup restriction also applies for participants that were invited to the event or a later stage of the qualifiers, in that case the default lineup of the participant at the time of the invitation or a specific lineup named in context with the invitation is relevant. Invited participants are considered the same as if they had played throughout the entire qualifier process up until the stage that they have been invited to.
+
+
+7. Punctuality 
+
+
+We expect every player to be at the tournament area as stated in the tournament directions info mails to setup, prepare and solve any technical problems that might occur. If you notice at any point you will be late on one of the days, please inform a tournament official as soon as possible! Any delays caused by showing up late may lead to penalty points which means a prize money deduction for you / your team.
+
+
+8. Broadcasting
+
+
+Each Participant acknowledges and agrees that MESA has the right to photograph, record, publish, broadcast, stream, disseminate, telecast, transmit, air, distribute, or otherwise exploit, in any manner whatsoever and in any and all media whether now known or hereinafter invented, all or any part of the Tournament and any services provided by, or image, representation or voice communications of, a Participant or a Team howsoever arising in respect of or connected to the Tournament (including but not limited to the products of such services).
+
+
+
+
+9. Equipment 
+
+
+MESA just provides monitors, computers and noise-canceling headset. Participants have to bring their own equipment (in particular: Keyboard, Mouse, Mousepad, In-Ear headphones with long enough cables, soundcard).
+
+
+All player equipment is subject to the approval of MESA administration. MESA reserves the right to deny the use of any equipment and/or device providing an unfair competitive advantage.
+
+
+10. Clothing 
+
+
+The players and teams need to ensure that they are all in equal colored clan attire, shorts are not allowed. Failure for a player or a team to bring such attire, will result in MESA providing suitable clothing for the participants. The cost of this clothing will then be subtracted from the prize money paid out to the participants. Any kind of headwear is forbidden. (a minimum of $100 fine).
+
+
+11. Administrators 
+
+
+The instructions of administrators should always be obeyed and followed. Failure to do so may result in penalty points being awarded.
+
+
+12. Player Brief 
+
+
+The player brief is a document that will be sent to the participants by mail before the tournament. It is meant as an extension to the rulebook for a specific offline event and equally binding.
+
+
+13. Technical Checklist 
+
+
+After completing their setup process the player will sign off on the MESA admins technical checklist. This process exists to ensure the integrity of the system used to compete before the match starts.
+
+
+
+
+14. Technical Pause:
+In the case of an Online Match:
+
+
+Teams are limited to ten (10) minutes total of technical pauses per Map. After this time has run out a Team may use a tactical timeout to allow more time to resolve issue(s). If no tactical timeouts are available, Teams are able to make a substitution or play the game out. 
+
+
+If an issue cannot be resolved within the allotted ten (10) minutes, Team(s) can request additional time from the Tournament Operations Team. This additional time will be given at the discretion of the Tournament Operations Manager.
+
+
+Technical pauses may be called at any time but will come into effect at the next freezetime, or immediately if called during a freezetime. The Player who has an issue must immediately notify the Tournament Official in their Playing Area. 
+
+
+Players must continue to play out any ongoing round until the pause has come into effect to allow Tournament Officials to make a decision according to the Rulebook. 
+
+
+All communication (including but not limited to text and voice communication between Players and Team Coaches) is forbidden during a technical pause. Warnings will be given for first infringement and more severe Sanctions will be imposed for multiple breaches including but not limited to Penalty Points and/or fines.
+
+
+
+
+15. Match Interruptions:
+
+
+If during an online Match, a Player(s) incurs a serious issue (e.g. internet issues, power outage etc.) that cannot be resolved quickly, their Team may request a substitution from their pre-approved Submitted Roster. This substitution request is at the discretion of the Tournament Operations Manager. The Match can be paused for the change to be made if required, however this delay must not exceed five (5) minutes
+
+
+16. Recording POV demos in online matches:
+
+
+POVs: All Players and Team Coaches are required to record their POVs of each Map and upload them via the online Google form. Players must have uploaded their POVs within one (1) hour post the relevant map.
+Failure to upload a POV will result in a penalty of $100 and 0.25% per missing POV towards total prize earnings.
+
+
+17. Camera obligations:
+
+
+Camera obligations When specifically stated, each player in an online event must be able to provide a clean camera feed for broadcast. Every participant needs to activate their camera a minimum of thirty (30) minutes before the start time of the match. Participants may turn off their cameras between maps in a series but must turn them back on a minimum of five (5) minutes before the start of the next map. Failure to provide a clean camera feed for the full duration of the map (including pre-match) will result in the participant being subject to fines (1% each player).
+
+
+18. Leaving the server
+
+
+Players must not leave the server during a Match without the express permission of the Tournament Officials. If a Player leaves the server without permission and does not return in time for the next round, no pause will be granted and the Match will continue. The Team may call tactical timeouts to extend the freeze time.
+
+
+19. Team Communication Tool 
+
+
+MESA will provide local TeamSpeak servers for all participants in team games to use as the main voice communication system. The communication on the voice server will be monitored by the tournament referees. MESA reserves the right to record all TeamSpeak communication during the event. No other communication tools are allowed.
+
+
+20. Media Obligations
+
+
+If the league decides that one or more players need to be part of interviews (short pre/post match interviews and/or longer interview-sessions), a press conference or an autograph-, photograph- or video-session, then the players cannot deny this and must attend. Most events will have a mandatory media day, where participants will be photographed, filmed and interviewed by the MESA crew for the event presentation. The participants will receive a media schedule beforehand to be informed about nature, duration and schedule of any activities of this kind that take more than 5 minutes.
+
+
+21. Missing Media Obligations 
+
+
+Not fulfilling the media obligations will result in monetary fines. Their range depends on the details. The following fines are standard punishments for the most common cases:
+
+
+Not showing up complete and on time for the media day:  $1000 (for per person) + 4% of the prize money winnings. 
+
+
+
+
+22. Map pool
+
+
+The competition will be played on the current competitive map pool (Valve Active Duty Map Group) which consists of the following maps:
+
+
+● Overpass
+● Inferno
+● Mirage
+● Nuke
+● Dust II
+● Ancient
+● Train
+
+
+23. Offline tournaments
+
+
+The offline map selection process has to start 45 minutes before the scheduled match starts. If a participant is 15 minutes late for the announced map selection process time, their remaining picks and/or bans will be randomised by the tournament administration. In all instances, the time at which the map selection process is completed does not necessarily indicate the exact start time of the match. The map selection process may be completed (potentially significantly) earlier if ordered so by the tournament administration. Completed map vetoes must not be made public before MESA has done so.
+
+
+24. Lateness penalty
+
+
+In the event that a person is not ready at the start of the game due to missing or late arrival at the setup and warm-up:
+* In the first 10 minutes, the opposing team gets the right to choose the side of the third map
+* In the next 20 minutes, the opposing team gets to choose their side on the selected map
+* If 15 minutes have passed from match starttime, forfeiture or automatic victory of the first map will be given to the opposing team.
+* If the opposing team agreed to give their waiting 15 minutes, the match starting time could be extended another 5 minutes.
+
+
+In the event that a person is not ready at the start of the map veto (at least 40 minutes before match starting time or before setup time starts) due to missing or late arrival:
+
+
+* In the first 15 minutes, the opposing team gets the right to choose A/B of map veto.
+* In the next 30 minutes, the opposing teams get to ban both first and second. 
+
+
+
+
+Best-of-one (Bo1) matches
+
+
+The better seeded team decides whether they will be Team A or Team B. Team A starts the process and the order of the ban/pick is as follows:
+
+
+1. Team A removes one map.
+2. Team B removes two maps.
+3. Team A removes two maps.
+4. Team B removes one map.
+5. The remaining map will be played.
+
+
+The starting sides on the map are determined by a knife round.
+
+
+Best-of-three (Bo3) matches
+
+
+The better seeded team decides whether they will be Team A or Team B. Team A starts the process and the order of the ban/pick is as follows:
+
+
+1. Team A removes one map.
+2. Team B removes one map.
+3. Team A picks one map.
+4. Team B picks one map.
+5. Team A removes one map.
+6. Team B removes one map.
+7. The remaining map is played as a decider, if required.
+
+
+Every team decides the starting sides on the map choice of their opponent. The starting sides on the last map are determined by a knife round.
+
+
+Best-of-five (Bo5) matches
+
+
+The better seeded team decides whether they will be Team A or Team B. Team A starts the process and the order of the ban/pick is as follows:
+
+
+1. Team A removes one map.
+2. Team B removes one map.
+3. Team A picks one map.
+4. Team B picks one map.
+5. Team A picks one map.
+6. Team B picks one map.
+7. The remaining map is played as a decider, if required.
+
+
+Every team decides the starting sides on the map choice of their opponent. The starting sides on the last map are determined by a knife round.
+
+
+Match settings 
+
+
+The following match settings will be used for tournament matches:
+● Rounds: Best out of 24 (mp_maxrounds 24)
+● Round time: 1 minute 55 seconds (mp_roundtime 1.92)
+● Start money: $800 (mp_startmoney 800)
+● Freeze time: 20 seconds (mp_freezetime 20)
+● Buy time: 20 seconds (mp_buytime 20)
+● Bomb timer: 40 seconds (mp_c4timer 40)
+● Overtime rounds: Best out of 6 (mp_overtime_maxrounds 6)
+● Overtime start money: $12,500 (mp_overtime_startmoney 12500)
+● Round restart delay: 5 seconds (mp_round_restart_delay 5)
+● Break during half time:: 2 minutes
+● Break during half time in overtimes: disabled
+● Prohibited items: none (mp_items_prohibited "")
+
+
+25. Player details 
+
+
+When requested, players are required to send us all requested information including, but not limited to: full name, contact details, date of birth, address, game account, STEAM ID64 and photo.
+
+
+26. Nicknames
+
+
+Players are only allowed to use their own official nicknames - without any additions - during MESA matches. Every player that has officially registered their nickname with Valve for sponsored events is required to use the same nickname for all MESA matches. Players that have not registered their nickname for Valve sponsored events may request a nickname change by emailing the tournament administration team. All nicknames must be in line with
+the MESA Code of Conduct. MESA may reject nicknames that include political, religious or offensive matters or sentiments, as judged by MESA.
+
+
+27. Game account
+
+
+Participants are required to submit game account information during the roster submission process or MESA sign up page for the event. Where a participant has submitted a game account for a past event and wishes to use a different game account, they must resubmit their game account information. Unless specifically allowed by the tournament administration prior to the start of a match, participants may not use a different game account to the one submitted for the event.
+
+
+28. Complaint procedure
+
+
+If a Team wishes to file a complaint regarding the result of a Match then they have up to fifteen (15) minutes following the completion of such Match to put forward their case as to why the result should not stand. The Team must provide as much evidence as x possible to support their case and the case must be put forward to the Tournament or Teams Operations Manager. If no case has been made within fifteen (15) minutes after the Match finishes, the result will stand. Where such complaint relates to a Participant potentially breaching the ESIC Codes, the complaint must be made to the Match Official. MESA shall consider any complaints in good faith and determine a fair and reasonable course of action, taking into account the merits (if any) of the complaint.
+
+
+29. Conflict of interest for participants
+
+
+Players and coaches submitted as part of the team are not allowed to have any financial interest in the success of any other participant that is competing in the same competition. They are required to affirm that they have no conflict of interest (including any business entanglement such as shared management or ownership) with any other participant.
+
+
+30. Conflict of interest for team staff
+
+
+No person or entity that has direct or indirect influence or control over any organisation that has a team taking part in the competition is allowed to have direct or indirect influence nor to hold any shares/stocks or other financial stakes in another such organisation. An exception can be made if the involvement is extremely minimal or “unintentional”, e.g. if the amount is so low that any financial benefit of it could never match the direct benefit from the success of the actual organisation.
+
+
+31. Prize money
+
+
+All prize money should ideally be paid out ninety (90) days after the MESA event in question has been completed, but it may take as long as one hundred eighty (180) days for the payment to be completed. If a participant fails to provide accurate payment information, an invoice or other required documentation (e.g. tax documents), the prize money will not be paid out until a reasonable time after this has been rectified.
+
+
+32. Prize deductions due to penalty points
+
+
+Every penalty point that a participant acquires during an event or its qualifiers is penalised with a one percent (1%) prize money deduction. The deduction is calculated out of the grand total of prize money awarded to that participant at the end of the last part of the competition, including both online and offline prize money, but excluding the part that is meant to compensate for travel expenses (if any). The deducted prize money will be proportionally distributed among the other teams; no prize money is lost through penalty points.
+
+
+
+
+33. Prize deductions due to fines
+
+
+Fines are removed from the winnings of the team in question. They are not redistributed to the other participants.
+
+
+34. Withdrawal of prize money
+
+
+As long as the prize money for the competition has not been paid out, MESA reserves the right to cancel any pending payment if any evidence of fraud or foul play is discovered.
+
+
+35. Prize Money in case of ongoing investigations
+
+
+If, at the due date of the prize payment an investigation into a player is ongoing, the payment for that player will be postponed until after that investigation has been concluded. If the investigation ends after the end of the third year after the competition, but the result is that the player should have received prize money, that payment will still be executed.
+
+
+
+
+36. Transfer of prize money
+
+
+The prize money will be sent as a bank transfer, as specified by the licence holder. If a participant has not collected their winnings within one year of the initial payment date the prizes are forfeited.
+
+
+37. Leaving during an event
+
+
+If a participant leaves during an ongoing event (i.e. between qualifier and the main event, between two stages of qualification or even between accepting the invitation to a qualifier and the qualifier), the participant forfeits all prize money accumulated for the event, fines, relegations and other penalties may be imposed and all its members may be banned until the end of the main event. 
+
+
+MESA reserves the right to penalise the participant, or organisation, in the next event they participate within three hundred sixty five (365) days. Higher penalties, not being invited, suspensions or similar punishments may also come into effect, especially for very late cancellations, as seen fit by the tournament administration.
+
+
+Participants will not be penalised if they leave an event after a second squad from their organisation has qualified for the event.
+
+
+
+
+38. Leaving an event during the playoff stage
+
+
+A team is considered to have left the event if they forfeit an elimination match during the playoff stage. If a team forfeits before the first round of the playoffs, they will be replaced by the next highest ranked team from the previous stage of the tournament, when possible. If a team forfeits during a later elimination round of the playoffs, the participant will be given a final placing as if they had lost in the previous elimination round, only earning the prize money or rewards from that placing. In leagues, a team leaving the playoffs stage may be banned. 
+
+
+39. Deletion of matches
+
+
+All matches involving participants that have left a stage of the event after it has started will be reset and deleted. In playoff brackets, the most recent or the next upcoming match (depending on the situation) of the participant will be considered a default win for their opponent.
+
+
+40. Punctuality in offline matches
+
+
+Players are expected to arrive at their designated tournament area no later than fifty (50) minutes before their scheduled match start time, unless otherwise explicitly stated by the tournament administration. Coaches are expected to arrive at their designated tournament area no later than thirty (30) minutes before their scheduled match start time, unless otherwise explicitly stated by the tournament administration. 
+
+
+If a participant knows that they will not be on time to their tournament area, they must notify the tournament administration at the earliest point possible. Mitigating circumstances and attempts to inform MESA about the lateness and minimise its impact may be taken into account when applying penalties. It is the participant’s responsibility to monitor the tournament schedule, and any announcements made about changes to it, in order to avoid lateness.
+
+
+41. Not being punctual for an offline match
+
+
+On the first occasion that a participant fails to arrive at their designated tournament area within the first ten (10) minutes of their expected arrival time, they will receive a warning. If the lateness continues beyond the scheduled match start time, or if an issue occurs as a result of the late arrival of the participant which delays the match start time such as not yet being ready. to play (15 minutes after scheduled start time) At that point, the participant will
+be considered as map 1 forfeited. 
+
+
+After another 15 minutes, if the participant doesn't show up or the active lineup is incomplete, the whole series will be considered forfeit. 
+
+
+The tournament administration can decide to award (partial) default losses in the case of a best of series, or disqualify the participant. After a second 15 minute period the opponent will be rewarded with a full match series win. In mitigating circumstances, the match may be
+rescheduled when appropriate, if the schedule allows it.
+
+
+
+
+42. Repeated lateness
+
+
+If a participant is late in more than two matches in the same competition, they will be considered a repeat offender and the standard punishments will be increased. That includes prize pool deductions and affects seeding for the next tournament. 
+
+
+43. Voice communication & recording
+
+
+Communication during matches is limited to the five players on the server and one coach. Additional personnel may join the communications channel but must be purely passive listeners (i.e. muted at all times). Participants must provide details of a TeamSpeak server when requested, as well as provide full access to tournament administration. Participants will be held accountable for the appearance of the TeamSpeak servers they provide, and any inappropriate behavior, language or content hosted there may be penalised. MESA reserves the right to enforce the use of one of their servers. For offline events, MESA will provide and monitor a local TeamSpeak server. MESA reserves the right to record all communication during the matches. The tournament administration will join the TeamSpeak channel thirty (30) minutes before the start of the match, and will start recording the communications fifteen (15) minutes before the start of the match.
+
+
+44. Replacements
+
+
+If a participant is, for any reason, unable to compete anymore in the event, a replacement will be called up. If this happens before the replacement deadline, the replacement will inherit any financial benefits like paid flights and hotels from the replaced participant.
+
+
+Usually competition groups or brackets will not be reseeded if they were already publicly announced before the drop-out happened. In special cases, when the fairness of the competition is in jeopardy, the tournament administration can still change or even re-draw the competition. Replacement participants will be considered and contacted to ask whether or not they want to participate.
+
+
+
+
+45. Clothing
+
+
+The players and teams need to ensure that they are all in equal coloured team attire, long trousers and closed shoes (i.e. shorts, flip-flops and foam clogs e.g. crocs clogs are not allowed). Any kind of headwear is forbidden. Penalties will be awarded for minor violations of this rule (a minimum of $300 fine for per match), but in major cases (for example offensive content, other team branded clothing etc.), players will not be allowed to start their matches before the problematic piece of clothing has been replaced. If possible, and deemed appropriate by the tournament administration, MESA will provide suitable clothing for the participants that are not dressed accordingly. The cost of provided clothing will then be subtracted from the prize money awarded to the participants. Any delay caused by change of clothing will be considered the players fault and penalised according to the rules of punctuality.
+
+
+46. Obeying instructions
+
+
+Instructions given by the tournament administration should always be obeyed and followed. Failure to do so may result in penalty points being awarded.
+
+
+47. Technical checklist
+
+
+After completing their setup process the player will sign the technical checklist. This process exists to ensure the integrity of the system used to compete before the match starts. Technical pauses caused by problems that should have been noticed if the checklist had been properly followed will be punished, as well as any relevant penalties for delays caused. By signing this document, participants confirm that they are ready to start their match as scheduled. Participants may be forced to start the match even if a technical issue arises that would have been resolved during the checklist process.
+
+
+48. Food, drinks, smoking and behavior
+
+
+If nothing else has been announced, it is forbidden to bring or eat any food in the tournament areas. Smoking or vaping is also strictly prohibited. Players are allowed to have beverages, but only cups or bottles that have any logos and branding are covered, and only below the table unless told otherwise. Excessively loud noise (e.g. playing music from a speaker) and offensive language is forbidden.
+
+
+49. Electronic devices
+It is strictly forbidden to connect or use any electronic devices (e.g. phones, cameras, vaporisers, tablets, hand warmers etc.) on the tournament computers without prior examination and approval from the tournament administrators. Participants are not allowed to bring any electronic devices, cameras or similar devices (e.g. vaporiser) into the tournament area unless permitted by the tournament administration. Such devices have to be handed to tournament administration before the match starts. Participants are not allowed to take photos and/or
+make any recordings on stage.
+
+
+50. Unnecessary items
+
+
+Items that are not immediately necessary (e.g. clothing that is not being worn, bags etc) have to be stored out of sight as indicated by MESA. Paper versions of documents for tactical purposes are allowed on desks in reasonable sizes and numbers (e.g. a notebook).
+
+
+
+
+51. Internet access
+
+
+Internet access on tournament computers is disabled for all participants.
+
+
+52. Warm-up period
+
+
+A warm-up period of thirty (30) minutes is normally provided before an offline match, although this period may not be guaranteed. Any time spent away from the tournament area during this thirty (30) minute period will still be considered as part of the warm-up period.
+
+
+53. Photo and other media rights
+
+
+By participating in the event, all players and other team members grant MESA the right to use any photographic, audio or video material on their website or for any other promotional purpose. Additionally, each player must sign two copies of a release form that they will receive beforehand for reading. These must be signed before they start their first match.
+
+
+54. Winners ceremony
+
+
+Participants have to stay in the tournament area for the winners ceremony after the Grand Final.
+
+
+55. MESA provided areas
+
+
+Participants have to follow the hotel or venue rules in the practice areas. Only marketing activities that have been authorised by MESA are allowed in any MESA provided areas (e.g. tournament areas, practice rooms, hotel rooms etc).
+
+
+56. Rule violations, punishments and ESIC
+
+
+MESA and its competitions are part of ESIC, the Esports Integrity Commission. This means that all rules and regulations of ESIC apply to all MESA tournaments. You can look them up on their website at https://esic.gg/. The following sub-paragraphs are meant to give you an idea of what things are forbidden. For more detailed information, please visit the ESIC website.
+
+
+57. Code of conduct
+
+
+Every participant has to behave with respect towards the representatives of MESA, press, viewers, partners and other players. The participants are requested to represent esports, MESA, and their sponsors honourably. This applies to behaviour in-game, on TeamSpeak and also in chats, messengers, comments and other media. We expect players to conduct themselves according to the following values:
+● Compassion: treat others as you would be treated.
+● Integrity: be honest, be committed, play fair.
+● Respect: show respect to all other humans, including teammates, competitors, and event staff.
+● Courage: be courageous in competition and in standing up for what is right.
+Participants must not engage in harassment or hate speech in any form. This includes, but is not limited to:
+● Hate speech, offensive behaviour, or verbal abuse related to sex, gender identity and expression, sexual
+orientation, race, ethnicity, disability, physical appearance, body size, age, or religion.
+● Stalking or intimidation (physically or online).
+● Spamming, raiding, hijacking, or inciting disruption of streams or social media.
+● Posting or threatening to post other people’s personally identifying information (“doxing”).
+● Unwelcome sexual attention. This includes, unwelcome sexualized comments, jokes, and sexual advances.
+● Advocating for, or encouraging, any of the above behaviour.
+Please refer to the AnyKey Keystone Code to learn more about good sporting behaviour. Refer to the ESIC Code of Conduct for detailed conduct rules and penalties. Violation of this Code of Conduct will result in penalty points. In the case of repeat or extreme violations, penalties may include disqualification, mandatory training sessions or banning from future MESA events.
+
+
+58. Cheat software
+
+
+Any use of software that could be considered cheats is strictly forbidden. The tournament administration reserves the right to specify what is considered a cheat.
+
+
+59. Information abuse
+
+
+Communication during the match with people not involved in the match is strictly forbidden, the same is true for using information about your game from other external sources (e.g. streams).
+
+
+During online matches, coaches are allowed to communicate freely with the players; they do
+not need to call a tactical timeout, and they may speak during live rounds.
+
+
+60. Punishments for cheating
+
+
+When cheating during an event is uncovered , the result(s) of the match(es) in question will be voided. The participant will be disqualified, forfeit their prize money and be banned from all competitions in MESA for a duration of normally 3 years. This duration can be lower, if significant mitigating factors are in play, but also higher, if there are aggravating circumstances.
+
+
+61. Methods to detect cheating
+
+
+MESA reserves the right to use different methods to inspect participants and their equipment, with or without prior notice. One of these is the use of metal detectors on participants entering the stage. Participants are not allowed to refuse these inspections.
+
+
+
+
+
+
+62. Refusing to be tested
+
+
+Refusing to be tested is considered doping. Punishments will be the same as for severe cases of substance abuse.
+
+
+63. List of prohibited substances and methods
+
+
+The List of Prohibited Substances and Methods created by the Esports Integrity Commission (ESIC) is valid for the MESA tournaments. The Iist can be found here: https://esic.gg/codes/esic-prohibited-list/ Any unsanctioned use of these substances is considered doping.
+
+
+64. Prescribed medication
+
+
+If participants have an active prescription for a substance on the WADA list, they have to send proof to the tournament administration before the first day of the competition (deadline in local time). They may still be subject to a doping test, but a positive result for the prescribed substance will be disregarded.
+
+
+65. Punishments for doping
+
+
+Mild cases of doping will be punished with a warning and possibly penalty points for the participant. Severe cases (i.e. use of drugs containing performance enhancing substances, like Adderall) will be punished with nullification of the results achieved under the influence of the substance, a ban of one to two (1-2) years, forfeiture of the prize money won, as well as disqualification of the participant. If a participant is found guilty of a severe case of doping only after the last match of the tournament has already been over for at least twenty four (24) hours, the participant will still get a ban, but the tournament result will remain in place and there are no consequences for the team. Mild cases will not be punished at all, after that time.
+
+
+66. Betting
+
+
+No players, team managers, staff or management of attending organisations may be involved in betting or gambling, associate with betters or gamblers, or provide anyone any information that may assist betting or gambling, either directly or indirectly, for any of the MESA matches or the competition in general. Any betting or gambling against your own organisation’s matches will lead to an immediate disqualification of the organisation and a minimal ban of 1 year from all MESA competitions for all persons involved. Any other violation will be penalised at the sole discretion of the tournament administration.
+
+
+
+
+67. Competition manipulation
+
+
+Offering money/benefits, making threats or exerting pressure towards anyone involved with MESA with the goal of influencing a result of a match is considered competition manipulation. The most common example is offering your opponent money to let you win.
+
+
+68. Punishments for competition manipulation
+
+
+When attempted competition manipulation is uncovered in the MESA, the result(s) of the match(es) in question will be voided. The participant will be disqualified, forfeit their prize money and be banned from all competitions in MESA for a duration of between one and two (1-2) years. A fine is also possible.
+
+
+69. Match fixing
+
+
+Using any means to manipulate the outcome of a match for purposes that are not sporting success in the tournament in question is considered match fixing. The most common example is intentionally losing a match to manipulate a bet on the match.
+
+
+70. Punishments for match fixing
+
+
+When match fixing is uncovered in the MESA, the result(s) of the match(es) in question will be voided. The participant will be disqualified, forfeit their prize money and be banned from all competitions in MESA for a duration of normally 5 years. This duration can be lower if significant mitigating factors are in play, but also higher if there are aggravating circumstances. A fine is also possible.
+
+
+71. Unsportsmanlike behaviour
+
+
+For an orderly and pleasant game, it is essential that all participants have sportsmanlike behaviour. The most important and common offences are listed below. However, the tournament administration may assign penalties for not explicitly listed types of unsportsmanlike behaviour.
+
+
+72. Playing with a disallowed player
+
+
+Using a disallowed player results in ten (10) penalty points being awarded and the player will be suspended for a minimum of two (2) matches. In addition to this, the opponent will be offered a rematch. If the tournament administration decides there is not enough time for a rematch (this will always be the case in matches in continuous order, like all except the last round of a bracket, but can happen in other cases as well), a default win will be given to the opponent.
+
+
+73.  Media obligations:
+
+
+If MESA decides that one or more players need to be part of interviews (short pre-/post-match interviews and/or longer interview-sessions), a press conference or an autograph, photograph or video session, then the players cannot deny this and must attend. For all MESA broadcasted tournament matches, participants cannot refuse a request to provide an interviewee.
+
+
+
+
+74. Seeding
+The tournament uses Valve Regional Standings for seeding, the most recent published version of the global Valve Regional Standings available on the seeding date will be used (However, it can be different due to additional information of the tournament on announcement information) Points will remain the same regardless of roster changes. The live version of the Valve Regional Standings can be accessed here: https://github.com/ValveSoftware/counter-strike_regional_standings/tree/main/live
+In the Swiss system format, the initial tournament seeding will be used for Round 2 and Round 3, instead of the Buchholz system. Matchups will be carefully arranged to prevent any rematches. For the playoff stage, teams with a 2-0 record will be seeded higher, while 2-1 teams will receive lower seeding. When determining the seeding for common pool teams, the initial tournament seeding will be applied.
+
+
+75. Final decisions
+If a situation is not covered in the rulebook, it will be decided by the tournament head admin under the supervision of the tournament commissioner. The tournament commissioner's decision is final, and players and teams are obligated to follow it.
