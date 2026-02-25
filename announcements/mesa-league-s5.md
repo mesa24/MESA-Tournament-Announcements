@@ -1,8 +1,8 @@
 # MESA League Season 5 - Official Tournament Announcement
 
-**Tournament Operator:** MESA
-**Announcement Date:** February 25, 2026
-**Tier & Sanctioning:** Tier 2 VRS-ranked event (results contribute to Valve’s regional standings)
+**Tournament Operator:** MESA  
+**Announcement Date:** February 25, 2026  
+**Tier & Sanctioning:** Tier 2 VRS-ranked event (results contribute to Valve’s regional standings)  
 **Location:** MESA Studio, Ulaanbaatar, Mongolia
 
 ---
