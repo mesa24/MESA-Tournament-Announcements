@@ -1,14 +1,16 @@
-# MPS: Winter 2026 - Official Tournament Announcement
+# MESA League Season 5 - Official Tournament Announcement
 
-**Tournament Operator:** MESA  
-**Announcement Date:** February 6, 2026
+**Tournament Operator:** MESA
+**Announcement Date:** February 25, 2026
+**Tier & Sanctioning:** Tier 2 VRS-ranked event (results contribute to Valve’s regional standings)
+**Location:** MESA Studio, Ulaanbaatar, Mongolia
 
 ---
 
 ## Tournament Dates
 
-**Open Qualifier:** February 21-23, 2026 (Online)  
-**Main Event:** February 25-28, 2026 (LAN)
+**Group Stage:** March 11-12, 2026 (Online)  
+**Playoffs:** March 17-22, 2026 (LAN)
 
 ---
 
@@ -16,13 +18,13 @@
 
 ### Direct VRS Invites
 
-**None.** This tournament does not feature any Direct VRS Invites or Wildcard Invites.
+**None.** This tournament does not feature any Direct VRS Invites or Wildcard Invites. All teams enter through registration.
 
 ### VRS Information for Seeding
 
-- **Seeding VRS Publication Date:** Latest available version at time of registration close
-- VRS-ranked rosters will be seeded higher than non-VRS rosters in the Open Qualifier
+- **Seeding VRS Publication Date:** Most recent version available as of March 10, 2026
 - Among VRS-ranked teams, seeding will follow their Global VRS ranking
+- 4 highest VRS-ranked teams among registered participants, directly seeded into the Playoffs.
 
 ### Visa Region
 
@@ -30,22 +32,21 @@ Mongolia
 
 ### Tournament Stages
 
-- **Open Qualifier:** Online
 - **Group Stage:** Online
 - **Playoffs:** LAN at MESA Studio
 
 ### Prize Pool
 
-**Total Prize Pool:** $3,000 USD
+**Total Prize Pool:** 20,000,000 MNT / 5601.81 USD
 
 **Distribution:**
 
-- 1st Place: $1,650
-- 2nd Place: $750
-- 3rd Place: $375
-- 4th Place: $225
-- 5th-6th Place: -
-- 7th-8th Place: -
+- 1st Place: 9,000,000 MNT
+- 2nd Place: 5,000,000 MNT
+- 3rd Place: 2,400,000 MNT
+- 4th Place: 1,600,000 MNT
+- 5th-6th Place: - 1,000,000 MNT
+- 7th-8th Place: - 0 MNT
 
 **Additional Compensation:** None. No appearance fees, revenue shares, or other forms of compensation beyond the prize pool.
 
@@ -53,25 +54,20 @@ Mongolia
 
 - **Registration:** mesa.mn
 - **Registration Fee:** 50,000 MNT (Mongolian bank transfer)
-- **Registration Period:** February 13 - February 20, 2026
+- **Registration Period:** March 04 - March 10, 2026
 - **No team limit**
-- **Advancement:** Top 8 teams qualify for Main Event
+- **Advancement:** Top 4 teams qualify for Playoffs
 
 **Format:** Format details will be determined and announced based on the number of registered teams.
 
 ### Tournament Format
 
-**Group Stage (Online):**
-
-- Two double-elimination (GSL) groups
-- 4 teams per group
-- All matches: Bo1
-- Top 2 teams per group advance to Playoffs
-
 **Playoffs (LAN at MESA Studio):**
 
 - Double-Elimination bracket
-- All matches: Bo3
+- Opening matches are Best of 1
+- Grand Final is Best of 5
+- All other matches are Best of 3
 
 ### Integrity and Conduct Rules
 
