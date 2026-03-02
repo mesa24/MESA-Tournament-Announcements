@@ -50,7 +50,7 @@ Mongolia
 
 **Additional Compensation:** None. No appearance fees, revenue shares, or other forms of compensation beyond the prize pool.
 
-### Open Qualifier Rules
+### Group Stage Qualifier Rules
 
 - **Registration:** mesa.mn
 - **Registration Fee:** 50,000 MNT (Mongolian bank transfer)
